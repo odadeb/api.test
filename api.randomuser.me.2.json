@@ -1,0 +1,122 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Andre",
+        "last": "Peters"
+      },
+      "location": {
+        "street": {
+          "number": 9935,
+          "name": "Bridge Road"
+        },
+        "city": "Wakefield",
+        "state": "Worcestershire",
+        "country": "United Kingdom",
+        "postcode": "L46 3PW",
+        "coordinates": {
+          "latitude": "9.0679",
+          "longitude": "-151.2345"
+        },
+        "timezone": {
+          "offset": "+5:00",
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+        }
+      },
+      "email": "andre.peters@example.com",
+      "login": {
+        "uuid": "0baf1ef1-e41e-4a16-bed3-0fed113e8516",
+        "username": "ticklishelephant102",
+        "password": "twelve",
+        "salt": "4qe3NgA8",
+        "md5": "c7876918864c1a6be3216c9e933b0b6e",
+        "sha1": "335cecb9275111fa461b67ef39bbe7420e58a2b1",
+        "sha256": "329e8e38d0735e553e03425f42ea4ea46ae067f1e2199c959dec5e139925e5fe"
+      },
+      "dob": {
+        "date": "1996-04-21T16:18:39.248Z",
+        "age": 24
+      },
+      "registered": {
+        "date": "2018-02-23T20:57:43.433Z",
+        "age": 2
+      },
+      "phone": "015395 58139",
+      "cell": "0787-752-635",
+      "id": {
+        "name": "NINO",
+        "value": "SZ 72 52 82 L"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/86.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Georgia",
+        "last": "Morris"
+      },
+      "location": {
+        "street": {
+          "number": 4547,
+          "name": "Saddle Dr"
+        },
+        "city": "Stamford",
+        "state": "New Jersey",
+        "country": "United States",
+        "postcode": 31257,
+        "coordinates": {
+          "latitude": "21.0225",
+          "longitude": "130.5200"
+        },
+        "timezone": {
+          "offset": "+4:00",
+          "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+        }
+      },
+      "email": "georgia.morris@example.com",
+      "login": {
+        "uuid": "a3b9c7c6-ca91-4f23-99e1-e2922646e027",
+        "username": "crazyzebra183",
+        "password": "knickers",
+        "salt": "j7HQAxwW",
+        "md5": "754cebb8f44e7bc21fea77a659afb696",
+        "sha1": "e59d9ad0b7d9dfbcd511c1fed58d83f2d443d069",
+        "sha256": "c1eccdc32e622adca4bfa0f534fb0a8368a22a21b187bd5418a5e98d541e33ce"
+      },
+      "dob": {
+        "date": "1960-06-03T06:52:20.551Z",
+        "age": 60
+      },
+      "registered": {
+        "date": "2017-09-19T13:49:20.387Z",
+        "age": 3
+      },
+      "phone": "(811)-843-6288",
+      "cell": "(477)-797-3245",
+      "id": {
+        "name": "SSN",
+        "value": "482-59-9271"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/5.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+      },
+      "nat": "US"
+    }
+  ],
+  "info": {
+    "seed": "f14911d4c58a12e0",
+    "results": 2,
+    "page": 1,
+    "version": "1.3"
+  }
+}

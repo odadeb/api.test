@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Christian",
+        "last": "Gutierrez"
+      },
+      "location": {
+        "street": {
+          "number": 6021,
+          "name": "Calle de Ángel García"
+        },
+        "city": "Málaga",
+        "state": "Castilla la Mancha",
+        "country": "Spain",
+        "postcode": 16102,
+        "coordinates": {
+          "latitude": "-19.0141",
+          "longitude": "-171.5910"
+        },
+        "timezone": {
+          "offset": "-9:00",
+          "description": "Alaska"
+        }
+      },
+      "email": "christian.gutierrez@example.com",
+      "login": {
+        "uuid": "3619b841-3874-4de2-aabc-44635c12c7d0",
+        "username": "silverrabbit340",
+        "password": "pancho",
+        "salt": "oFDq36lh",
+        "md5": "df5f0ad0a01c41266b08c455a9124de6",
+        "sha1": "9161e87a2edc2b7aac9eb1853ea0bdf2e6cdec13",
+        "sha256": "7d2dda7b4644c2047b0390a5543773e0aa327ea07bdb0a46eb0b6b7ad2df1c7a"
+      },
+      "dob": {
+        "date": "1960-07-10T01:12:20.252Z",
+        "age": 60
+      },
+      "registered": {
+        "date": "2009-10-23T21:49:34.384Z",
+        "age": 11
+      },
+      "phone": "937-118-480",
+      "cell": "624-686-250",
+      "id": {
+        "name": "DNI",
+        "value": "10759977-X"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/20.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+      },
+      "nat": "ES"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Marvão",
+        "last": "Alves"
+      },
+      "location": {
+        "street": {
+          "number": 2157,
+          "name": "Rua Paraná "
+        },
+        "city": "Bragança Paulista",
+        "state": "São Paulo",
+        "country": "Brazil",
+        "postcode": 76889,
+        "coordinates": {
+          "latitude": "-53.9310",
+          "longitude": "-11.9080"
+        },
+        "timezone": {
+          "offset": "+6:00",
+          "description": "Almaty, Dhaka, Colombo"
+        }
+      },
+      "email": "marvao.alves@example.com",
+      "login": {
+        "uuid": "ad948021-b9ff-4bbe-97a0-c372eb0802dc",
+        "username": "goldenkoala168",
+        "password": "flames",
+        "salt": "cHck1VBs",
+        "md5": "ccabc73c7fba337356f382dbf1d5d09d",
+        "sha1": "b6c9778a8fff68da7a1cd9302ccc34faa5e8ea52",
+        "sha256": "0a3a5caf8acb152971de9e69ff77b1d0731cf63906d818a1453cde3fd146d10d"
+      },
+      "dob": {
+        "date": "1972-08-04T01:51:30.969Z",
+        "age": 48
+      },
+      "registered": {
+        "date": "2019-05-10T20:48:12.341Z",
+        "age": 1
+      },
+      "phone": "(97) 4024-4571",
+      "cell": "(31) 0616-6504",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/11.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+      },
+      "nat": "BR"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Katherine",
+        "last": "Wilson"
+      },
+      "location": {
+        "street": {
+          "number": 7576,
+          "name": "The Drive"
+        },
+        "city": "Kinsale",
+        "state": "Waterford",
+        "country": "Ireland",
+        "postcode": 73242,
+        "coordinates": {
+          "latitude": "-9.5592",
+          "longitude": "-70.9904"
+        },
+        "timezone": {
+          "offset": "+3:00",
+          "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+        }
+      },
+      "email": "katherine.wilson@example.com",
+      "login": {
+        "uuid": "54718f1e-c703-4778-8151-0a2a9907998f",
+        "username": "yellowbird967",
+        "password": "candy1",
+        "salt": "5XrkfvxL",
+        "md5": "ca51f6a45cecb9ac3addec8920c1bcfb",
+        "sha1": "40d22e97066dfeaa3270398132cd3c0b377aaa39",
+        "sha256": "0599ea0dac2b0ed5f85b836fe7de91d7b76b76b7c29227b458773681ea599d4f"
+      },
+      "dob": {
+        "date": "1964-10-12T14:33:47.144Z",
+        "age": 56
+      },
+      "registered": {
+        "date": "2002-09-21T20:27:20.165Z",
+        "age": 18
+      },
+      "phone": "071-736-2496",
+      "cell": "081-935-7635",
+      "id": {
+        "name": "PPS",
+        "value": "6233022T"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/46.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+      },
+      "nat": "IE"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Joakim",
+        "last": "Saga"
+      },
+      "location": {
+        "street": {
+          "number": 3429,
+          "name": "Ole Moes vei"
+        },
+        "city": "Jessheim",
+        "state": "Nord-Trøndelag",
+        "country": "Norway",
+        "postcode": "3792",
+        "coordinates": {
+          "latitude": "-40.5717",
+          "longitude": "22.8208"
+        },
+        "timezone": {
+          "offset": "+6:00",
+          "description": "Almaty, Dhaka, Colombo"
+        }
+      },
+      "email": "joakim.saga@example.com",
+      "login": {
+        "uuid": "cd8ebec4-2156-493f-9f50-7db5a36f9f58",
+        "username": "bigbear745",
+        "password": "aubrey",
+        "salt": "g5xEVwNo",
+        "md5": "e2ce5e709134d0efa777053c2721002d",
+        "sha1": "86d1e50c9fcc247798a898f47f0472b93eb9c3c7",
+        "sha256": "ea513ac2c098843db8a83db3152d1f5fe755f79d862abca6ce16045bc22ccb73"
+      },
+      "dob": {
+        "date": "1946-08-06T18:11:29.513Z",
+        "age": 74
+      },
+      "registered": {
+        "date": "2018-07-03T12:17:41.885Z",
+        "age": 2
+      },
+      "phone": "84215148",
+      "cell": "93535204",
+      "id": {
+        "name": "FN",
+        "value": "06084624363"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/31.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Tommy",
+        "last": "Burke"
+      },
+      "location": {
+        "street": {
+          "number": 1602,
+          "name": "Queen Street"
+        },
+        "city": "Cardiff",
+        "state": "Dumfries and Galloway",
+        "country": "United Kingdom",
+        "postcode": "D54 1RG",
+        "coordinates": {
+          "latitude": "42.2476",
+          "longitude": "43.5538"
+        },
+        "timezone": {
+          "offset": "+6:00",
+          "description": "Almaty, Dhaka, Colombo"
+        }
+      },
+      "email": "tommy.burke@example.com",
+      "login": {
+        "uuid": "48a46513-3c26-4bc5-a576-1e67c5a3110b",
+        "username": "greenfish389",
+        "password": "custom",
+        "salt": "DaMopDHy",
+        "md5": "465df5072683bd8e5a8a0e94fc2dab9e",
+        "sha1": "9f4ebe9f8eb0b48f2d19249b83981e54206dd7b4",
+        "sha256": "e2002cc45266fabc16e767d00405067fb897e7c83dfa1ff3ab1dafe9eb63625c"
+      },
+      "dob": {
+        "date": "1985-06-16T02:38:22.211Z",
+        "age": 35
+      },
+      "registered": {
+        "date": "2018-04-18T00:40:41.845Z",
+        "age": 2
+      },
+      "phone": "019467 69135",
+      "cell": "0716-364-531",
+      "id": {
+        "name": "NINO",
+        "value": "RE 68 63 30 S"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/97.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+      },
+      "nat": "GB"
+    }
+  ],
+  "info": {
+    "seed": "1156dba6e729d4d0",
+    "results": 5,
+    "page": 1,
+    "version": "1.3"
+  }
+}

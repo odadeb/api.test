@@ -1,0 +1,458 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Madame",
+        "first": "Isabella",
+        "last": "Clement"
+      },
+      "location": {
+        "street": {
+          "number": 4617,
+          "name": "Rue Saint-Georges"
+        },
+        "city": "Villigen",
+        "state": "St. Gallen",
+        "country": "Switzerland",
+        "postcode": 9137,
+        "coordinates": {
+          "latitude": "-55.9301",
+          "longitude": "34.4529"
+        },
+        "timezone": {
+          "offset": "0:00",
+          "description": "Western Europe Time, London, Lisbon, Casablanca"
+        }
+      },
+      "email": "isabella.clement@example.com",
+      "login": {
+        "uuid": "62d77feb-3dfe-43f6-b6d0-7d71abeeb769",
+        "username": "angryladybug880",
+        "password": "spliff",
+        "salt": "Z74n9z9y",
+        "md5": "f1b5aa7c17cd4fd69e323859e96aa551",
+        "sha1": "641f60597e101e00e5eca2d3a9b36031b6a36cfc",
+        "sha256": "815f770c6d5dbff0798e8c3e7d2aaabe1cc6922f2c893201b2f9f0ad5ace5669"
+      },
+      "dob": {
+        "date": "1968-06-21T17:44:25.640Z",
+        "age": 52
+      },
+      "registered": {
+        "date": "2004-03-17T06:53:19.124Z",
+        "age": 16
+      },
+      "phone": "079 643 51 96",
+      "cell": "076 689 11 28",
+      "id": {
+        "name": "AVS",
+        "value": "756.8522.0336.64"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/61.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/61.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/61.jpg"
+      },
+      "nat": "CH"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Madame",
+        "first": "Simone",
+        "last": "Morel"
+      },
+      "location": {
+        "street": {
+          "number": 7117,
+          "name": "Rue Baraban"
+        },
+        "city": "Semsales",
+        "state": "Glarus",
+        "country": "Switzerland",
+        "postcode": 1289,
+        "coordinates": {
+          "latitude": "-54.5540",
+          "longitude": "159.4662"
+        },
+        "timezone": {
+          "offset": "-3:00",
+          "description": "Brazil, Buenos Aires, Georgetown"
+        }
+      },
+      "email": "simone.morel@example.com",
+      "login": {
+        "uuid": "b5aee113-cc83-4316-9aa6-2beb45b6c4b5",
+        "username": "whitebear305",
+        "password": "worthy",
+        "salt": "uoZb5nDE",
+        "md5": "4405e0a85db503bd84bb0db15d6d1c28",
+        "sha1": "9340bb6bb40fbf218c9e97cd20b00404064e05f1",
+        "sha256": "ee879d6df1766f59a3195cef5d04df5d317e72e95f81fc176bd7590a1402826e"
+      },
+      "dob": {
+        "date": "1969-12-13T18:44:27.871Z",
+        "age": 51
+      },
+      "registered": {
+        "date": "2008-06-22T11:38:44.478Z",
+        "age": 12
+      },
+      "phone": "079 270 34 19",
+      "cell": "075 018 55 73",
+      "id": {
+        "name": "AVS",
+        "value": "756.1353.7966.12"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/48.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+      },
+      "nat": "CH"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "علیرضا",
+        "last": "کامروا"
+      },
+      "location": {
+        "street": {
+          "number": 6354,
+          "name": "میدان 15خرداد"
+        },
+        "city": "قائم‌شهر",
+        "state": "آذربایجان غربی",
+        "country": "Iran",
+        "postcode": 22852,
+        "coordinates": {
+          "latitude": "-49.1689",
+          "longitude": "121.1807"
+        },
+        "timezone": {
+          "offset": "-11:00",
+          "description": "Midway Island, Samoa"
+        }
+      },
+      "email": "aalyrd.khmrw@example.com",
+      "login": {
+        "uuid": "0e377ff0-3758-4d0d-8b06-63e202d98c62",
+        "username": "happycat283",
+        "password": "1025",
+        "salt": "aDUNtve0",
+        "md5": "128c4619a1862fe14148a02382e412fa",
+        "sha1": "a8918314c292c05515f86ef305c94b10eba41750",
+        "sha256": "267da4320c265cefc82a802ed20ea20c24552e662bd36c0a1032a3608f94caf3"
+      },
+      "dob": {
+        "date": "1949-10-19T15:47:52.637Z",
+        "age": 71
+      },
+      "registered": {
+        "date": "2007-03-10T04:10:57.093Z",
+        "age": 13
+      },
+      "phone": "042-28287015",
+      "cell": "0950-878-4788",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/34.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
+      },
+      "nat": "IR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Vedat",
+        "last": "Köylüoğlu"
+      },
+      "location": {
+        "street": {
+          "number": 7966,
+          "name": "Talak Göktepe Cd"
+        },
+        "city": "Şanlıurfa",
+        "state": "Adana",
+        "country": "Turkey",
+        "postcode": 98458,
+        "coordinates": {
+          "latitude": "-19.1420",
+          "longitude": "30.4557"
+        },
+        "timezone": {
+          "offset": "+3:00",
+          "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+        }
+      },
+      "email": "vedat.koyluoglu@example.com",
+      "login": {
+        "uuid": "6beaa23a-4ad0-4aaa-8207-ca451f061314",
+        "username": "angrybutterfly299",
+        "password": "r2d2",
+        "salt": "jMn539uN",
+        "md5": "326b76851a777bfe79b0bf99767f02ec",
+        "sha1": "7a69d64b7e45737eb8b1243920c45035e32d92f9",
+        "sha256": "6960b9df72c92c81a091e8938b7ef6dd04b5947919267bbebf347f4b27ada9c8"
+      },
+      "dob": {
+        "date": "1993-02-01T17:16:59.328Z",
+        "age": 27
+      },
+      "registered": {
+        "date": "2011-10-13T00:01:19.555Z",
+        "age": 9
+      },
+      "phone": "(081)-655-5185",
+      "cell": "(028)-127-8558",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/42.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+      },
+      "nat": "TR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Jeremy",
+        "last": "Wade"
+      },
+      "location": {
+        "street": {
+          "number": 7919,
+          "name": "Crockett St"
+        },
+        "city": "Greeley",
+        "state": "Alabama",
+        "country": "United States",
+        "postcode": 33359,
+        "coordinates": {
+          "latitude": "-27.5345",
+          "longitude": "-19.2411"
+        },
+        "timezone": {
+          "offset": "+5:45",
+          "description": "Kathmandu"
+        }
+      },
+      "email": "jeremy.wade@example.com",
+      "login": {
+        "uuid": "44d3cb13-891d-4cc7-8eee-5f98c4c0f2a3",
+        "username": "brownfrog945",
+        "password": "18436572",
+        "salt": "tbzZRJhG",
+        "md5": "8d2b2f8be59621967704fbbf7f514dc2",
+        "sha1": "6ef5f5d33939ee04509df9839ee3491eb12cc1c2",
+        "sha256": "bb5afa9c7170f22147e23072028bfc9d0c12611b11c3d7389770ed4e92df6cf8"
+      },
+      "dob": {
+        "date": "1977-03-02T19:00:21.714Z",
+        "age": 43
+      },
+      "registered": {
+        "date": "2019-07-13T23:41:22.504Z",
+        "age": 1
+      },
+      "phone": "(919)-437-9584",
+      "cell": "(048)-469-4114",
+      "id": {
+        "name": "SSN",
+        "value": "153-36-3122"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/97.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Rintje",
+        "last": "Vossen"
+      },
+      "location": {
+        "street": {
+          "number": 7297,
+          "name": "Damsport"
+        },
+        "city": "Koudum",
+        "state": "Friesland",
+        "country": "Netherlands",
+        "postcode": 44707,
+        "coordinates": {
+          "latitude": "74.8775",
+          "longitude": "133.9393"
+        },
+        "timezone": {
+          "offset": "-1:00",
+          "description": "Azores, Cape Verde Islands"
+        }
+      },
+      "email": "rintje.vossen@example.com",
+      "login": {
+        "uuid": "f5ab013e-860e-42a9-891d-814d33bd88df",
+        "username": "sadtiger607",
+        "password": "cedric",
+        "salt": "p2r5Jk9t",
+        "md5": "c5d5ae424de3d197532c0e8185f5a9fa",
+        "sha1": "fa0785c6de70e39831541f62a630a6c7859db722",
+        "sha256": "211e1a014a254647edc45cf6886c014ca3c147705122b1405331f23e57309ca8"
+      },
+      "dob": {
+        "date": "1990-04-20T20:32:46.304Z",
+        "age": 30
+      },
+      "registered": {
+        "date": "2016-02-28T05:34:14.660Z",
+        "age": 4
+      },
+      "phone": "(098)-942-7361",
+      "cell": "(342)-020-9797",
+      "id": {
+        "name": "BSN",
+        "value": "03147854"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/95.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+      },
+      "nat": "NL"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Susan",
+        "last": "Fleming"
+      },
+      "location": {
+        "street": {
+          "number": 8914,
+          "name": "Grove Road"
+        },
+        "city": "Donabate",
+        "state": "Carlow",
+        "country": "Ireland",
+        "postcode": 71154,
+        "coordinates": {
+          "latitude": "-52.8903",
+          "longitude": "-5.2070"
+        },
+        "timezone": {
+          "offset": "-12:00",
+          "description": "Eniwetok, Kwajalein"
+        }
+      },
+      "email": "susan.fleming@example.com",
+      "login": {
+        "uuid": "ecc26044-06db-4928-835f-9fff2f65bf9e",
+        "username": "orangeduck501",
+        "password": "honor",
+        "salt": "KPetduIW",
+        "md5": "8682cc7ad888a0f233ed3970703dfc09",
+        "sha1": "9ea06ff659c4346b476bfabc49350628284e123f",
+        "sha256": "c27ecc771f8f06b155d6712f8c466db1e7a315eff0a7b0697616515076596d3c"
+      },
+      "dob": {
+        "date": "1954-06-26T09:28:51.017Z",
+        "age": 66
+      },
+      "registered": {
+        "date": "2004-01-27T22:25:20.767Z",
+        "age": 16
+      },
+      "phone": "021-572-3179",
+      "cell": "081-474-4863",
+      "id": {
+        "name": "PPS",
+        "value": "6818228T"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/62.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+      },
+      "nat": "IE"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Austin",
+        "last": "Reynolds"
+      },
+      "location": {
+        "street": {
+          "number": 8419,
+          "name": "Pockrus Page Rd"
+        },
+        "city": "Hobart",
+        "state": "South Australia",
+        "country": "Australia",
+        "postcode": 6140,
+        "coordinates": {
+          "latitude": "-3.5961",
+          "longitude": "-159.8975"
+        },
+        "timezone": {
+          "offset": "-7:00",
+          "description": "Mountain Time (US & Canada)"
+        }
+      },
+      "email": "austin.reynolds@example.com",
+      "login": {
+        "uuid": "7d6bf723-6185-4596-944b-5cf6b57364d4",
+        "username": "goldenzebra108",
+        "password": "jeter2",
+        "salt": "IGZOeLSx",
+        "md5": "6a3b82e384510356b4a4b53fad95d488",
+        "sha1": "247cb6bf19cd14808155fba90df925fcdfb66a97",
+        "sha256": "03b6910299a1d0739f443831d40ddbabf389a2cab0920d11e73ccc2c4bdba53b"
+      },
+      "dob": {
+        "date": "1994-03-28T10:48:30.190Z",
+        "age": 26
+      },
+      "registered": {
+        "date": "2005-12-22T15:37:24.716Z",
+        "age": 15
+      },
+      "phone": "07-5282-7573",
+      "cell": "0462-528-247",
+      "id": {
+        "name": "TFN",
+        "value": "974849591"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/33.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
+      },
+      "nat": "AU"
+    }
+  ],
+  "info": {
+    "seed": "0d4451ec2a152ac7",
+    "results": 8,
+    "page": 1,
+    "version": "1.3"
+  }
+}
